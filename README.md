@@ -7,12 +7,7 @@ A collection of my solutions to Codeforces problems, organized by contest and pr
 ## Table of Contents
 
 - [About](#about)  
-- [Repository Structure](#repository-structure)  
-- [Prerequisites](#prerequisites)  
-- [How to Use](#how-to-use)  
-- [Running & Testing](#running--testing)  
-- [Contributing](#contributing)  
-- [License](#license)
+- [Repository Structure](#repository-structure)
 
 ---
 
