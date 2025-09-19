@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+public class RaisingBacteria_579A {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+
+        int count = 1;
+        while ( n != 1){
+            if( (n & 1) != 0) {
+                count++;
+                n ^= 1;
+            }
+            n >>= 1;
+        }
+        System.out.println(count);
+    }
+}
